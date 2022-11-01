@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maksimkosobutsky
-- 👀 I’m interested in ... Data Science (Data Analysis & Visualization)
+- 👀 I’m interested in ... Data Science,(Data Analysis & Visualization), Software Engineering
 - 🌱 I’m currently learning ... Healthcare Informatics, Power BI, SQL, Python
-- 💞️ I’m looking to collaborate on ... Data Visualization projects
+- 💞️ I’m looking to collaborate on ... Data & Coding projects
 - 📫 How to reach me ... maxkosobutsky@gmail.com
 
 <!---
